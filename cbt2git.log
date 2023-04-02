@@ -1,0 +1,11 @@
+2023-04-02 22:28:37.821082 - Initialized conversion of CBT187
+2023-04-02 22:28:37.945415 - Received CBT.V504.FILE187.PDS from FILE187.XMI 
+2023-04-02 22:28:37.947896 - Found $$$$DOC.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/$$$$DOC
+2023-04-02 22:28:37.949224 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:28:37.950248 - Found $$DOCV22.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/$$DOCV22
+2023-04-02 22:28:37.951269 - Found $$DOC231.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/$$DOC231
+2023-04-02 22:28:37.952534 - Found @FILE187.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/@FILE187
+2023-04-02 22:28:37.953727 - Found CVTCLIST.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/CVTCLIST
+2023-04-02 22:28:37.955007 - Found CVTCLS21.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/CVTCLS21
+2023-04-02 22:28:37.956233 - Found CVTCLS22.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/CVTCLS22
+2023-04-02 22:28:37.957226 - Found HELPMEMB.txt (text/plain) in CBT.V504.FILE187.PDS, moved to PDS/HELPMEMB
